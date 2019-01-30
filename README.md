@@ -1,0 +1,2 @@
+# CADC
+CAD Coin
